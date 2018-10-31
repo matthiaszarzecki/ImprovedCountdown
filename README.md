@@ -5,5 +5,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
 Improved Countdown for a series of TutsPlus-Articles
-https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-1--cms-28347
-https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-pt-2-of-2--cms-28554
+
+[Part 1](https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-1--cms-28347)
+[Part 2](https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-pt-2-of-2--cms-28554)
+
+![Screenshot](unity_05.png)
