@@ -9,4 +9,4 @@ Improved Countdown for a series of TutsPlus-Articles
 [Part 1](https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-1--cms-28347)
 [Part 2](https://gamedevelopment.tutsplus.com/tutorials/the-smoke-mirrors-of-good-countdowns-pt-2-of-2--cms-28554)
 
-![Screenshot](unity_05.png)
+![Screenshot](unity_05.jpg)
